@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28&text=Welcome%20to%20Junsik's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28&text=Welcome%20to%20Jaehyung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
 ## 💁 AI Engineer of Healthcare Company ${\textsf{\color{#e96e16}Ontact}}{\textsf{\color{#ef8a07}Health}}$ 💁
