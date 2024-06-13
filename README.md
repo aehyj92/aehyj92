@@ -22,7 +22,7 @@
   <br/>
   <img src="https://img.shields.io/badge/triton inference server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MS-SQL-DD0031?style=for-the-badge&logo=redis&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MSSQL-DD0031?style=for-the-badge&logo=redis&logoColor=white"> 
  <p>
 </div>	
 <br>
@@ -42,7 +42,6 @@
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/cent os-002260?style=for-the-badge&logo=centos&logoColor=white">
-  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
   <br/>  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
