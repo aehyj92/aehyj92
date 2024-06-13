@@ -15,7 +15,6 @@
 <div align=center>
 <p>
   <img src="https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Python-Tensorflow/Pytorch/Scikit-learn/Pandas"> 
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=C#&logoColor=white"> 
   <br/>
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
