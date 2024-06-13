@@ -31,7 +31,7 @@
 
 <div align=center>  
   <img src="https://img.shields.io/badge/AI engineering-FF6F00?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Multi-modal deeplearning-d9ead3?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Multi modal deeplearning-d9ead3?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/LLM/BERT-d9ead3?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Computer vision-d9ead3?style=for-the-badge"> 
 </div>	
